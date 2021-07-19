@@ -5,7 +5,7 @@ function addNums(n1: number, n2: number, showResult: boolean, phrase: string){
 
 const number1 = 10;
 const number2 = 3; 
-const printResult = true;
+const logResult = true;
 const resultPhrase = 'The sum is '
 
-addNums(number1, number2, printResult, resultPhrase)
+addNums(number1, number2, logResult, resultPhrase)
